@@ -1,0 +1,18 @@
+{
+    "name": "huaiguoguo/fire-payment",
+    "description": "fire-payment",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/huaiguoguo/fire-payment/issues?state=open",
+        "source": "https://github.com/huaiguoguo/fire-payment"
+    },
+    "authors": [
+        {
+            "name": "huaiguoguo",
+            "email": "290559038@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
